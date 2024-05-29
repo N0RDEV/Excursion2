@@ -11,3 +11,21 @@ body {
   font-size: 50px;
   color: #fff;
 }
+
+.header_secondary {
+  font-weight: 300;
+  color: #fff;
+  font-size: 42px;
+}
+
+.header_sub {
+  font-size: 21px;
+  color: grey;
+}
+
+/* LINKS */
+
+.link_main {
+  color: aquamarine;
+  font-size: 16px;
+}
